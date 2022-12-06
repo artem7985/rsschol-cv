@@ -1,6 +1,6 @@
 #Artem7985
 
-##contacts
+##contacts: bboytictac030505@gmail.com
 
 #feat: add real social icons;
 
